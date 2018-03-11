@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+body {
+    background-color: #ffffff;
+}
+
+form {
+    height: 410px;
+    margin: auto;
+    margin-top: 2px;
+    padding-left: 450px;
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: consolas;
+    font-style: italic;
+    color: #000000;
+    border-radius: 5px;
+    background-color: #95d211;
+}
+
+input {
+    display: inline-block;
+    width: 280px;
+    height: 35px;
+    padding-top: 12px;
+    font-size: 16px;
+    padding: 18px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #03a9f4;
+}
+
+input:focus {
+    background-color: #82f705;
+}
+
+#email {
+    margin-left: 80px;
+}
+
+#username {
+    margin-left: 38px;
+}
+
+#password {
+    margin-left: 38px;
+}
+
+#confirm {
+    margin-left: 52px;
+}
+
+#signup {
+    margin-top: 10px;
+    margin-left: 125px;
+    width: 200px;
+    height: 40;
+    font-size: 30px;
+    padding: 0px;
+    color: #83e60c;
+}
+
+#signup:hover {
+	cursor: pointer;
+}

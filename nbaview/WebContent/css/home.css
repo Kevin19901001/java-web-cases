@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #ffffff;
+}
+
+p {
+	width: 100%;
+	background-color: #0077ee;
+}
+
+div.Content {
+	width: 100%;
+	height: 420px;
+	margin-top: 5px;
+}
+
+.News, .Videos {
+	width: 660px;
+	height: 100%;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.News {
+	float: left;
+	background-color: rgba(132, 117, 6, 0.99);
+}
+
+.Videos {
+	float: right;
+	background-color: blueviolet;
+}
+
+.News p, .Videos p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 200px;
+	width: 35%;
+	height: 25px;
+	font-family: "Courier New";
+	font-weight: bold;
+	font-size: 23px;
+	background-color: inherit;
+	color:aqua;
+}

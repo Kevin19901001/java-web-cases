@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+div {
+    height: 425px;
+    margin-top: 5px;
+    background-color: #d4ab35;
+    border-radius: 5px;
+}
+
+#tip {
+    margin: 0px;
+}
+
+div#players {
+    padding: 5px 140px;
+}
+
+div#content {
+    height: auto;
+}
+
+.player {
+    width: 200px;
+    height: 112px;
+    background-color: #70c30f;
+    margin: 5px 5px;
+    float: left;
+}

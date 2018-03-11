@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+table {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid #080808;
+    background-color: #0cf515;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+td input {
+    width: 100px;
+    height: 24px;
+    margin: 2px;
+    font-size: 15px;
+    font-family: "Courier New";
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #cc190c;
+}

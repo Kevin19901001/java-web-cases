@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+#modify {
+    height: 455px;
+    border-radius: 5px;
+    margin-top: 2px;
+    background-color: #0077ee;
+}
+
+#info {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.line {
+    width: 90%;
+    height: 20%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+.line p {
+    float: left;
+    width: 32.2%;
+    height: 55%;
+    padding-top: 22px;
+    margin: 5px;
+    font-family: "Courier New";
+    font-size: 18px;
+}
+
+#thirdLine p {
+    width: 98.8%;
+}
+
+.line input {
+    width: 200px;
+    height: 24px;
+    border: 1px solid black;
+    border-radius: 2px;
+    float: right;
+    margin-right: 8px;
+    padding-left: 10px;
+}
+
+#thirdLine textarea {
+    float: right;
+    width: 840px;
+    height: 52px;
+    margin-right: 8px;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+
+#save {
+    margin-right: 450px;
+    margin-top: 18px;
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#save:hover {
+	background-color: #00cc00;
+}

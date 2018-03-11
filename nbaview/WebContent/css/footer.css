@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+.Footer {
+	height: 40px;
+	margin-top: 2px;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 22px;
+	font-family: monospace;
+	font-weight: bold;
+	font-style: italic;
+	padding-top: 15px;
+	border-radius: 5px;
+	background-color: #0077ee;
+}

@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+#super {
+	height: 445px;
+	margin-top: 2px;
+	background-color: #0077ee;
+	border-radius: 5px;
+}

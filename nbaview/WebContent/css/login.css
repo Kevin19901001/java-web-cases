@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+body {
+    background-color: #ffffff;
+}
+
+form {
+    height: 315px;
+    background-color: #95d211;
+    margin: auto;
+    margin-top: 5px;
+    padding-left: 475px;
+    font-size: 24px;
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: bold;
+    padding-top: 100px;
+    border-radius: 10px;
+}
+
+input {
+    margin-left: 65px;
+    width: 240px;
+    height: 28px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 16px;
+    padding-left: 12px;
+    border: 1px solid #03A9F4;
+    border-radius: 3px;
+}
+
+#username:focus, #password:focus {
+    background-color: #fbf3ab
+}
+
+#login {
+    width: 180px;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid #03A9F4;
+    border-radius: 18px;
+    font-size: 24px;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 2px;
+    background-color: inherit;
+    vertical-align: middle;
+}
+
+#login:hover {
+    cursor: pointer;
+    background-color: #0fe618;
+}

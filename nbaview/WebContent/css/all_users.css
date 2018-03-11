@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+#super {
+	height: 455px;
+    background-color: #0077ee;
+    margin-top: 2px;
+    border-radius: 5px;
+}
+
+#chosen {
+    height: 4.8%;
+    padding-top: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#searchUser {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-family: "Courier New";
+    font-weight: bold;
+    text-align: center;
+}
+
+#searchUser input {
+    padding-left: 12px;
+    background-color: #f9d9a0;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#searchUser a {
+    color: black;
+    text-decoration: none;
+    background-color: #09fd09;
+    border-radius: 3px;
+}
+
+#page {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#chosen a {
+    width: 150px;
+    height: 30px;
+    background-color: #37867e;
+    margin: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+    font-style: normal;
+    font-size: 24px;
+    font-family: "Courier New";
+    font-weight: bold;
+    background-color: yellow;
+    border-radius: 3px;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid #080808;
+    background-color: #0cf515;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+td input {
+    width: 100px;
+    height: 24px;
+    margin: 2px;
+    font-size: 15px;
+    font-family: "Courier New";
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #cc190c;
+}
+
+#page a {
+    color: black;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: "Courier new";
+    font-weight: bold;
+    display: inline-block;
+    width: 55px;
+    height: 24px;
+    text-align: center;
+    text-decoration: none;
+}

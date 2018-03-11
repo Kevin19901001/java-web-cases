@@ -1,0 +1,1 @@
+<p class="Footer">@Copyright nba view 2017</p>
