@@ -3,7 +3,7 @@ package com.nbaview.config;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**
- * To config wen application initializer.
+ * To config web application initializer.
  * @author Kevin
  */
 public class NBAViewWebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
